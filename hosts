@@ -1,0 +1,8 @@
+# you must already be using pihole default block list
+# play.tv3.lv ads
+0.0.0.0 o147275.ingest.sentry.io
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 trackdb.go3.tv
+0.0.0.0 galv.hit.gemius.pl
+0.0.0.0 5d423.v.fwmrm.net
+0.0.0.0 static.chartbeat.com
